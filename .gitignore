@@ -1,0 +1,15 @@
+﻿# Binaries / build
+*.exe
+*.dll
+*.so
+*.dylib
+dfsnode
+
+# Go build outputs
+*.out
+
+# Runtime data for this app
+ggnetwork/
+
+# Vendored deps (if you ever use 'go mod vendor')
+vendor/
